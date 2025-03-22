@@ -24,7 +24,7 @@
 <p align ="center"> 💻 Programming is more than just a skill for me, it is a passion, a hobby, and a source of relief that keeps me engaged and motivated :-)</p>
 <br>
 
-<p align ="center"> ⚡ Fun fact 👻 <b>I can write code, but don’t ask me to explain it after 6 months!</b></p>
+<p align ="center"> 👻 Fun fact <b>I can write code, but don’t ask me to explain it after 6 months!</b></p>
 <br><br><br>
 
 
