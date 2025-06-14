@@ -38,6 +38,9 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></p><br><br>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=saurabsinghrawat&show_icons=true&locale=en" alt="saurabsinghrawat" ></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabsinghrawat&" alt="saurabsinghrawat" /></p>
+<a href="https://github.com/SaurabSinghRawat/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SaurabSinghRawat" />
+</a>
+<a href="https://github.com/SaurabSinghRawat/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaurabSinghRawat&layout=compact&langs_count=8&card_width=320" />
+</a>
