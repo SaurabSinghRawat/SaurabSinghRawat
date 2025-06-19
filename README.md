@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sauarb</h1>
-<h3 align="center">A passionate Frontend Web Developer.</h3>
+
+<p align="center"><img src="https://readme-typing-svg.demolab.com?lines=Typing%20code%2C%20compiling%20dreams.%3BUpgrading%20from%20zero%20to%20dev.%3BCoding%20the%20blueprint%20of%20tomorrow.&font=monospace&color=#4169E1&background=000000&center=true&vCenter=true&pause=100&duration=10000" alt="Typing SVG" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saurabsinghrawat&label=Profile%20views&color=0e75b6&style=flat" alt="saurabsinghrawat" /> </p>
 
@@ -37,10 +38,14 @@
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></p><br><br>
 
-
+<h2 align="center">Current Github Stats</h2>
 <a href="https://github.com/SaurabSinghRawat/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SaurabSinghRawat" />
 </a>
 <a href="https://github.com/SaurabSinghRawat/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaurabSinghRawat&layout=compact&langs_count=8&card_width=320" />
 </a>
+<br><br>
+
+<h2 align="center">Current Leetcode Stats</h2>
+<p align="center"><img src="https://leetcode-badge-showcase.vercel.app/api?username=Saurab_Singh_Rawat&theme=dark" alt="LeetCode Stats" /></p>
