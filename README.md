@@ -49,3 +49,4 @@
 
 <h2 align="center">Current Leetcode Stats</h2>
 <p align="center"><img src="https://leetcode-badge-showcase.vercel.app/api?username=Saurab_Singh_Rawat&theme=dark" alt="LeetCode Stats" /></p>
+<p align="center"><img src="https://leetcard.jacoblin.cool/Saurab_Singh_Rawat?theme=dark&font=monospace&border=true&radius=14&title_color=ffffff" alt="LeetCode Stats" /></p>
