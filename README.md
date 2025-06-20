@@ -31,6 +31,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.leetcode.com/saurab_singh_rawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saurab_singh_rawat" height="30" width="40" /></a>
+  <a href="https://twitter.com/Saurab_S_Rawat" target="_blank"><img align="center" src="https://img.icons8.com/?size=45&id=phOKFKYpe00C&format=png&color=000000" width="30px"/></a>
 </p>
 <br>
 
