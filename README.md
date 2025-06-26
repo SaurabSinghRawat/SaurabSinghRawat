@@ -7,7 +7,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabsinghrawat" alt="saurabsinghrawat" /></a> </p>
 
 
-<p align ="center"> 🖋️<b>10th grade student</b>, currently pursuing academic excellence.</p>
+[<p align ="center"> 🖋️<b>10th grade student</b>, currently pursuing academic excellence.</p>]: #
 <br>
 
 <p align ="center"> 🌱 I’m currently learning <b>Android Development.</b></p>
