@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sauarb</h1>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?lines=Typing%20code%2C%20compiling%20dreams.%3BUpgrading%20from%20zero%20to%20dev.%3BCoding%20the%20blueprint%20of%20tomorrow.&font=monospace&color=#4169E1&background=000000&center=true&vCenter=true&pause=100&duration=10000" alt="Typing SVG" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?lines=Typing%20code%2C%20compiling%20dreams.%3BCoding%20the%20blueprint%20of%20tomorrow.&font=monospace&color=#4169E1&background=000000&center=true&vCenter=true&pause=100&duration=10000" alt="Typing SVG" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saurabsinghrawat&label=Profile%20views&color=0e75b6&style=flat" alt="saurabsinghrawat" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabsinghrawat" alt="saurabsinghrawat" /></a> </p>
 
-
-<p align ="center"> 🖋️<b>10th grade student</b>, currently pursuing academic excellence.</p>
-<br>
 
 <p align ="center"> 🌱 I’m currently learning <b>Android Development.</b></p>
 <br>
@@ -34,9 +31,22 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.leetcode.com/saurab_singh_rawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saurab_singh_rawat" height="30" width="30" /></a>
-  <a href="https://twitter.com/Saurab_S_Rawat" target="_blank"><img align="center" src="https://img.icons8.com/?size=45&id=phOKFKYpe00C&format=png&color=000000" width="30px"/></a>
-<a href="mailto:saurab.s.rawat2024@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" width="30px"/></a>
+<a href="https://www.leetcode.com/saurab_singh_rawat" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saurab_singh_rawat" height="30" width="30" />
+</a>
+
+<a href="https://twitter.com/Saurab_S_Rawat" target="_blank">
+  <img align="center" src="https://img.icons8.com/?size=45&id=phOKFKYpe00C&format=png&color=000000" width="30px"/>
+</a>
+
+<a href="https://www.linkedin.com/in/saurab-singh-rawat/" target="_blank">
+  <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" width="30px"/>
+</a>
+
+<a href="mailto:saurab.s.rawat2024@gmail.com" target="_blank">
+  <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" width="30px"/>
+</a>
+
 </p>
 <br>
 
